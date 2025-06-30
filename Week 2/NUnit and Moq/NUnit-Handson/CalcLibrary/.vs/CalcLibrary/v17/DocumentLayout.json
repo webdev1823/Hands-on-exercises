@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Jaleshraj\\.Net\\CalcLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A954183-99FE-489E-BA3C-23C104F92E17}|CalcLibraryTests\\CalcLibraryTests.csproj|e:\\jaleshraj\\.net\\calclibrary\\calclibrarytests\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A954183-99FE-489E-BA3C-23C104F92E17}|CalcLibraryTests\\CalcLibraryTests.csproj|solutionrelative:calclibrarytests\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9F0ABE-C280-4F84-8890-69F9E59BF84F}|CalcLibrary\\CalcLibrary.csproj|e:\\jaleshraj\\.net\\calclibrary\\calclibrary\\mathlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9F0ABE-C280-4F84-8890-69F9E59BF84F}|CalcLibrary\\CalcLibrary.csproj|solutionrelative:calclibrary\\mathlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorTests.cs",
+              "DocumentMoniker": "E:\\Jaleshraj\\.Net\\CalcLibrary\\CalcLibraryTests\\CalculatorTests.cs",
+              "RelativeDocumentMoniker": "CalcLibraryTests\\CalculatorTests.cs",
+              "ToolTip": "E:\\Jaleshraj\\.Net\\CalcLibrary\\CalcLibraryTests\\CalculatorTests.cs",
+              "RelativeToolTip": "CalcLibraryTests\\CalculatorTests.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAIwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T05:43:35.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MathLibrary.cs",
+              "DocumentMoniker": "E:\\Jaleshraj\\.Net\\CalcLibrary\\CalcLibrary\\MathLibrary.cs",
+              "RelativeDocumentMoniker": "CalcLibrary\\MathLibrary.cs",
+              "ToolTip": "E:\\Jaleshraj\\.Net\\CalcLibrary\\CalcLibrary\\MathLibrary.cs",
+              "RelativeToolTip": "CalcLibrary\\MathLibrary.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAwwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T16:54:53.173Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

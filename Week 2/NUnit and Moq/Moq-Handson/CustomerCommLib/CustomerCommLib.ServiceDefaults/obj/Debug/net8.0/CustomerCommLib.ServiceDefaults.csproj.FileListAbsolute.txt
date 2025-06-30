@@ -1,0 +1,12 @@
+C:\Users\Jaleshraj\source\repos\CustomerCommLib\CustomerCommLib.ServiceDefaults\bin\Debug\net8.0\CustomerCommLib.ServiceDefaults.deps.json
+C:\Users\Jaleshraj\source\repos\CustomerCommLib\CustomerCommLib.ServiceDefaults\bin\Debug\net8.0\CustomerCommLib.ServiceDefaults.dll
+C:\Users\Jaleshraj\source\repos\CustomerCommLib\CustomerCommLib.ServiceDefaults\bin\Debug\net8.0\CustomerCommLib.ServiceDefaults.pdb
+C:\Users\Jaleshraj\source\repos\CustomerCommLib\CustomerCommLib.ServiceDefaults\obj\Debug\net8.0\CustomerCommLib.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\Jaleshraj\source\repos\CustomerCommLib\CustomerCommLib.ServiceDefaults\obj\Debug\net8.0\CustomerCommLib.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaleshraj\source\repos\CustomerCommLib\CustomerCommLib.ServiceDefaults\obj\Debug\net8.0\CustomerCommLib.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\Jaleshraj\source\repos\CustomerCommLib\CustomerCommLib.ServiceDefaults\obj\Debug\net8.0\CustomerCommLib.ServiceDefaults.AssemblyInfo.cs
+C:\Users\Jaleshraj\source\repos\CustomerCommLib\CustomerCommLib.ServiceDefaults\obj\Debug\net8.0\CustomerCommLib.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\Jaleshraj\source\repos\CustomerCommLib\CustomerCommLib.ServiceDefaults\obj\Debug\net8.0\CustomerCommLib.ServiceDefaults.dll
+C:\Users\Jaleshraj\source\repos\CustomerCommLib\CustomerCommLib.ServiceDefaults\obj\Debug\net8.0\refint\CustomerCommLib.ServiceDefaults.dll
+C:\Users\Jaleshraj\source\repos\CustomerCommLib\CustomerCommLib.ServiceDefaults\obj\Debug\net8.0\CustomerCommLib.ServiceDefaults.pdb
+C:\Users\Jaleshraj\source\repos\CustomerCommLib\CustomerCommLib.ServiceDefaults\obj\Debug\net8.0\ref\CustomerCommLib.ServiceDefaults.dll
