@@ -1,0 +1,11 @@
+﻿"profiles": {
+  "MySwaggerDemo": {
+    "commandName": "Project",
+    "dotnetRunMessages": true,
+    "launchBrowser": true,
+    "applicationUrl": "http://localhost:5238;https://localhost:7238",
+    "environmentVariables": {
+      "ASPNETCORE_ENVIRONMENT": "Development"
+    }
+  }
+}
